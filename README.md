@@ -1,5 +1,5 @@
-# Unofficial DeadCells Theme for Libresprite
-Unofficial Dead Cells Theme for libresprite v1.0
+# PlueCells Theme for Libresprite
+PlueCells Theme for Libresprite v1.0
 
 ## Installation
 ### 1. Download the zip file or clone the repository
@@ -29,3 +29,5 @@ Choose 1 of them then click *Open Folder*. Copy the file you've just downloaded 
 
 ### 3. Apply theme
 Open the *Preferences/Theme* dialog again, choose a theme from the list, click *Select* then click *OK*. Restart Libresprite to make the change happen.
+  
+## More Info on Libresprite Theming [here] (https://github.com/LibreSprite/LibreSprite/blob/master/Theming.md)
