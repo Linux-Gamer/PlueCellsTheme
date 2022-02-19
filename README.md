@@ -30,4 +30,4 @@ Choose 1 of them then click *Open Folder*. Copy the file you've just downloaded 
 ### 3. Apply theme
 Open the *Preferences/Theme* dialog again, choose a theme from the list, click *Select* then click *OK*. Restart Libresprite to make the change happen.
   
-## More Info on Libresprite Theming [here] (https://github.com/LibreSprite/LibreSprite/blob/master/Theming.md)
+## More Info on Libresprite Theming [here](https://github.com/LibreSprite/LibreSprite/blob/master/Theming.md)
