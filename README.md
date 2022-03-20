@@ -1,6 +1,8 @@
 # PlueCells Theme for Libresprite
 PlueCells Theme for Libresprite v1.0
 
+![Screenshot of theme](55FA5575-CB77-4FC0-A300-5ACDC1F8F5BE.png)
+
 ## Installation
 ### 1. Download the zip file or clone the repository
 
